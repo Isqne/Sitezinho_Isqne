@@ -14,4 +14,4 @@ _**Homem -- hetero**_
 
 ### Developer
 
-<img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/69062213?s=100=4a8107196c54e452498892e46a6e4c89cb04b82a&v=4" width="100px;" alt=""/><br /><sub><b>GitHub💻</b></sub></a><br /><a href="https://github.com/Isqne" title="Aquele canto de gente entelegente">Pagina💻</a></td>
+<img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/69062213?s=100=4a8107196c54e452498892e46a6e4c89cb04b82a&v=4" width="100px;" alt=""/><br /><sub><b>GitHub💻</b></sub><br /><a href="https://github.com/Isqne" title="Aquele canto de gente entelegente">Pagina💻</a>
